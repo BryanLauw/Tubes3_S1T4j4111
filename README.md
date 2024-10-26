@@ -21,7 +21,7 @@ Algoritma Knuth-Morris-Pratt (KMP) adalah algoritma pencarian kata pada sebuah t
 Regular Expression adalah salah satu bentuk string matching. String matching yang dilakukan adalah pencarian teks dengan pola tertentu. Jadi, selama teks yang dicocokkan memiliki pola yang sama dengan pola regex, teks tersebut akan dianggap valid.
 Regular Expression mencocokkan suatu teks dengan pola tertentu. Regular expression digunakan untuk mencocokkan suatu teks dengan bahasa alaynya. Teks asli akan diubah menjadi bentuk regex bahasa alaynya. Kemudian, regex tersebut akan dicocokkan dengan bahasa alaynya.
 ## Kebutuhan
-1. .Net SDK x64  [version 8.0](#https://dotnet.microsoft.com/en-us/download)
+1. .Net SDK x64  [version 8.0](https://dotnet.microsoft.com/en-us/download)
 
 ## Setup dan Penggunaan
 1. Clone repository dengan salah satu dari perintah berikut
